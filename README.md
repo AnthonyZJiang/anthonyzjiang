@@ -1,10 +1,12 @@
 ## Hi there 👋
 
 I am Zhengyi Jiang (Anthony)
-- 🌎 I'm from China, living in the UK
-- 🤖 I work for a robotic startup
-- 🦾 I'm into robotics and mechatronics
-- :dog: I'm a dog person
+- 🇨🇳 I am from China
+- 🌎 I live in the UK
+- 🛠️ I am a roboticist 
+- 🤖 I work for a robot startup
+- 🦾 I love robotics and mechatronics
+- :dog: I am a dog person
 - :alien: I believe in aliens
 <div>
 <a href="https://github.com/anthonyzjiang">
