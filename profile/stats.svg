@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Anthony Jiang's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 479, Total Commits  : 1805, Total PRs: 60, Total Issues: 53, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 479, Total Commits  : 1810, Total PRs: 60, Total Issues: 53, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 70.31612954732796;
+        stroke-dashoffset: 70.27465586709617;
       }
     }
   
